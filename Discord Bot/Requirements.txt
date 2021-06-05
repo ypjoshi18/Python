@@ -1,2 +1,4 @@
 Download all packages from import section before running the program.
 Thank You.
+
+Create a .env file and and create a variable DISCORD_TOKEN and assign a value of discord bot to it.
